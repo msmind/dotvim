@@ -1,0 +1,1 @@
+/home/mssmfs/src/go//misc/vim/syntax/go.vim

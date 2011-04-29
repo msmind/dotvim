@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/mssmfs/src/go'
+let g:netrw_dirhist_2='/home/mssmfs/src/go/src'
+let g:netrw_dirhist_3='/home/mssmfs/src/go/src/cmd'
+let g:netrw_dirhist_4='/home/mssmfs/src/go/src'
+let g:netrw_dirhist_5='/home/mssmfs/src/go/src/pkg'
+let g:netrw_dirhist_6='/home/mssmfs/src/go/src/pkg/asn1'
+let g:netrw_dirhist_7='/etc/default'
+let g:netrw_dirhist_8='/usr/share/consolefonts'
+let g:netrw_dirhist_9='/etc/grub.d'
